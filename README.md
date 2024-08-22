@@ -15,6 +15,8 @@ Overall, Workforce Analytics project is an essential tool for any HR professiona
 
 • Advance Excel 
 
+• MySQL
+
 • Tableau
 
 • Statistics

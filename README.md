@@ -33,7 +33,7 @@ Overall, Workforce Analytics project is an essential tool for any HR professiona
 
 • Job roles with highest attrition rates
 
-• Monthly salary affecting attrition 
+• Job Satisfaction Rating by employees according to job role
 
 • Attrition rate according to gender
 
@@ -41,14 +41,8 @@ Overall, Workforce Analytics project is an essential tool for any HR professiona
 
 • Attrition across various departments
 
-• Business Travel
+• Count of employees travel for business
 
 • Relation between overtime work and atrrition
 
 • Corelation between atrrition employees and their total working years
-
-• Number of Companies Worked
-
-• Distance from Home
-
-• Attrition rate between high-performance and low-performance employees

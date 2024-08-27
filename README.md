@@ -11,7 +11,7 @@ In addition to these metrics, the dashboard also includes interactive features t
 
 Overall, Workforce Analytics project is an essential tool for any HR professional looking to gain deeper insights into their organization's HR data. By leveraging the power of Tableau's data visualization and analysis tools, HR professionals can make data-driven decisions that can help drive organizational success.
 
-### TECHNOLOGIES USED:
+## TECHNOLOGIES USED:
 
 • Advance Excel 
 
@@ -21,7 +21,27 @@ Overall, Workforce Analytics project is an essential tool for any HR professiona
 
 • Statistics
 
-### DASHBOARD CONTENT:
+## STEPS OVERVIEW:
+
+### Setting Objectives:
+
+• Clarified scope and objectives, aiming to gain insights into employee attrition patterns.
+
+### Data Collection and Exploration:
+
+• Gathered HR attrition dataset from Kaggle.
+• Analyzed the dataset to gain insights into employee demographics, job attributes, performance ratings, and attrition status. This involved visualizing distributions, correlations, and    trends using descriptive statistics and data visualization techniques.
+
+### Metric Development:
+
+• Utilized Tableau Public and Calculated Fields to create key performance indicators (KPIs) such as attrition rate, total workforce, etc.
+
+### Dashboard Creation:
+
+• Developed an interactive dashboard in Tableau Public to visualize the analysis results. The dashboard includes various visualizations, filters, and slicers to facilitate the       
+  exploration and understanding of employee attrition patterns.
+
+## DASHBOARD CONTENT:
 
 • KPI of Total Workforce, Attrition Count, Attrition Rate, Active Employees, Average Age and Average Income
 
@@ -46,3 +66,11 @@ Overall, Workforce Analytics project is an essential tool for any HR professiona
 • Relation between overtime work and atrrition
 
 • Corelation between atrrition employees and their total working years
+
+![Screenshot 2024-08-26 011803](https://github.com/user-attachments/assets/0dd0179c-714f-4977-838d-c137578d5977)
+
+![Screenshot 2024-08-26 011824](https://github.com/user-attachments/assets/db97f82b-c9e6-47a5-be65-4be516df599a)
+
+## CONCLUSION:
+
+This workforce analytics dashboard highlights areas where targeted interventions can enhance employee retention. By addressing factors like work-life balance and compensation, implementing strategies to support employees in high-turnover roles, and fostering a supportive work environment, the company can reduce attrition rates and improve organizational stability. Proactive measures aligned with these insights can lead to a more engaged and committed workforce, ultimately contributing to long-term success.

@@ -4,7 +4,7 @@ To complete and understand this Workforce Analytics problem there are few busine
 
 ## 1. How many current employees have the longest tenure years in their current title?
 
-![Screenshot 2024-08-29 141726](https://github.com/user-attachments/assets/da2dbde5-2ca7-4e63-8949-076f1960ee1b)
+![Screenshot 2024-08-29 142143](https://github.com/user-attachments/assets/e63cead9-28e2-4a5d-b81a-2456bafecded)
 
 ## 2. Which dept has least number of current employees?
 

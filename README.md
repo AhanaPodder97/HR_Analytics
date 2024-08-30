@@ -30,6 +30,7 @@ Overall, Workforce Analytics project is an essential tool for any HR professiona
 ### Data Collection and Exploration:
 
 • Gathered HR attrition dataset from Kaggle.
+
 • Analyzed the dataset to gain insights into employee demographics, job attributes, performance ratings, and attrition status. This involved visualizing distributions, correlations, and    trends using descriptive statistics and data visualization techniques.
 
 ### Metric Development:
@@ -40,6 +41,13 @@ Overall, Workforce Analytics project is an essential tool for any HR professiona
 
 • Developed an interactive dashboard in Tableau Public to visualize the analysis results. The dashboard includes various visualizations, filters, and slicers to facilitate the       
   exploration and understanding of employee attrition patterns.
+
+## TABLEAU DASHBOARD #
+To view the dashboard click on the link:
+
+•	[Dashboard 1](https://public.tableau.com/app/profile/ahana.podder/viz/WorkforceAnalytics_17243637278100/Dashboard1?publish=yes)
+
+•	[Dashboard 2](https://public.tableau.com/app/profile/ahana.podder/viz/WorkforceAnalytics_17243637278100/Dashboard2?publish=yes)
 
 ## DASHBOARD CONTENT:
 

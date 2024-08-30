@@ -29,7 +29,7 @@ Overall, Workforce Analytics project is an essential tool for any HR professiona
 
 ### Data Collection and Exploration:
 
-• Gathered HR attrition dataset from Kaggle.
+• Gathered Workforce attrition dataset from Kaggle.
 
 • Analyzed the dataset to gain insights into employee demographics, job attributes, performance ratings, and attrition status. This involved visualizing distributions, correlations, and    trends using descriptive statistics and data visualization techniques.
 

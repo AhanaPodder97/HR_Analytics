@@ -77,7 +77,7 @@ To view the dashboard click on the link:
 
 ![Screenshot 2024-08-26 011803](https://github.com/user-attachments/assets/0dd0179c-714f-4977-838d-c137578d5977)
 
-![Screenshot 2024-08-26 011824](https://github.com/user-attachments/assets/db97f82b-c9e6-47a5-be65-4be516df599a)
+![Screenshot 2024-08-30 010638](https://github.com/user-attachments/assets/346ccfd4-27ca-4741-9c67-5e662dc519cf)
 
 ### Some suggestions for the HR department to improve employee performance and retention:
 1.	Investigate the reasons behind the higher attrition rate among male employees and take appropriate measures to address their concerns and needs.

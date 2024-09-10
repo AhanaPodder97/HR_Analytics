@@ -2,6 +2,10 @@
 
 I have used several charts and visualizations to gain insights into the employee data. Here are some of the key insights gained from the analysis:
 
+![Screenshot 2024-09-11 004210](https://github.com/user-attachments/assets/9761bc30-bf2c-458e-88ac-75a75d60408f)
+
+![Screenshot 2024-09-11 004234](https://github.com/user-attachments/assets/9457aeae-67f9-43f5-8604-e1fdb837bef8)
+
 1.	In the distribution of attrition by gender, the data showed that 150 males and 87 females had left the company, indicating that male employees were leaving the company more than female employees.
    
 2.	The data of the attrition rate by employees over timing showed that the attrition rate was highest in the employees over timing, with 54% of employees leaving than employees not over timing.

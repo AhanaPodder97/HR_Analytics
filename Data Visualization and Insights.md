@@ -30,6 +30,6 @@ I have used several charts and visualizations to gain insights into the employee
 
 12.	 The table data of job roles with the highest attrition count showed that laboratory technicians had the highest attrition count of 62, followed by sales executives and research scientists.
 
-Filters: Finally, department filters were implemented at the top of the dashboard, which allowed users to filter the entire dashboard by selecting a specific department.
+Filters: Gender, department, travel for business, education field and age charts are converted to filters as well which allowed users to filter the entire dashboard by selecting a specific gender, department, travel for business, education field and age charts.
 
 
